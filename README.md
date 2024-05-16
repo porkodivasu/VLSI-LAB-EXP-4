@@ -96,6 +96,7 @@ end
 endmodule
 
 T FLIPFLOP:
+
 ```
 module tff(clk,rst,t,q);
 input clk,rst,t;
@@ -110,6 +111,7 @@ else
 q=~q;
 end
 endmodule
+
 ```
 
 D FLIPFLOP:
