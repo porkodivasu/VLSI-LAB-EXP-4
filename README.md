@@ -94,7 +94,7 @@ endcase
 end
 end
 endmodule
-
+```
 T FLIPFLOP:
 
 ```
